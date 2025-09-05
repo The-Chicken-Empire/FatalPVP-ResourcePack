@@ -1,1 +1,6 @@
-dummy
+{
+    "pack": {
+        "pack_format": 69,
+        "description": "cpvp"
+    }
+}

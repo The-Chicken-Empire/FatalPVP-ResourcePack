@@ -1,0 +1,51 @@
+{"providers": [{"type":"bitmap","chars":["\u0001"],"file":"minecraft:effect/speed.png","ascent":0,"height": 18 },
+{"type":"bitmap","chars":["\u0002"],"file":"minecraft:effect/haste.png","ascent":0,"height": 18 },
+{"type":"bitmap","chars":["\u0003"],"file":"minecraft:effect/jump_boost.png","ascent":0,"height": 18 },
+{"type":"bitmap","chars":["\u0004"],"file":"minecraft:effect/strength.png","ascent":0,"height": 18 },
+{"type":"bitmap","chars":["\u0005"],"file":"minecraft:effect/resistance.png","ascent":0,"height": 18 },
+{"type":"bitmap","chars":["\u0006"],"file":"minecraft:effect/fire_resistance.png","ascent":0,"height": 18 },
+{"type":"bitmap","chars":["\u0007"],"file":"minecraft:effect/water_breathing.png","ascent":0,"height": 18 },
+{"type":"bitmap","chars":["\u0008"],"file":"minecraft:effect/invisibility.png","ascent":0,"height": 18 },
+{"type":"bitmap","chars":["\u0009"],"file":"minecraft:effect/dolphins_grace.png","ascent":0,"height": 18 },
+{"type":"bitmap","chars":["\u0010"],"file":"minecraft:effect/health_boost.png","ascent":0,"height": 18 },
+{"type":"bitmap","chars":["\u0011"],"file":"minecraft:effect/slowness.png","ascent":0,"height": 18 },
+{"type":"bitmap","chars":["\u0012"],"file":"minecraft:effect/mining_fatigue.png","ascent":0,"height": 18 },
+{"type":"bitmap","chars":["\u0013"],"file":"minecraft:effect/weakness.png","ascent":0,"height": 18 },
+{"type":"bitmap","chars":["\u0014"],"file":"minecraft:effect/invulnerable.png","ascent":0,"height": 18 },
+{"type":"bitmap","chars":["\u0015"],"file":"minecraft:effect/blindness.png","ascent":0,"height": 18 },
+{"type":"bitmap","chars":["\u0016"],"file":"minecraft:effect/poison.png","ascent":0,"height": 18 },
+{"type":"bitmap","chars":["\u0017"],"file":"minecraft:effect/wither.png","ascent":0,"height": 18 },
+{"type":"bitmap","chars":["\u0018"],"file":"minecraft:effect/glowing.png","ascent":0,"height": 18 },
+{"type":"bitmap","chars":["\u0019"],"file":"minecraft:effect/darkness.png","ascent":0,"height": 18 },
+{"type":"bitmap","chars":["\u0022"],"file":"minecraft:effect/mark.png","ascent":0,"height": 18 },
+{"type":"bitmap","chars":["\u0023"],"file":"minecraft:effect/seraph_feather.png","ascent":0,"height": 18 },
+{"type":"bitmap","chars":["\u0024"],"file":"minecraft:effect/orpheus.png","ascent":0,"height": 18 },
+{"type":"bitmap","chars":["\u0025"],"file":"minecraft:effect/stun.png","ascent":0,"height": 18 },
+
+{"type":"bitmap","chars":["\u0027"],"file":"minecraft:effect/crystallize.png","ascent":0,"height": 18 },
+{"type":"bitmap","chars":["\u0030"],"file":"minecraft:effect/solitary_dominance.png","ascent":0,"height": 18 },
+{"type":"bitmap","chars":["\u0031"],"file":"minecraft:effect/dd.png","ascent":0,"height": 18 },
+{"type":"bitmap","chars":["\u0032"],"file":"minecraft:effect/press_harder.png","ascent":0,"height": 18 },
+{"type":"bitmap","chars":["\u0033"],"file":"minecraft:effect/hunger.png","ascent":0,"height": 18 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+]}

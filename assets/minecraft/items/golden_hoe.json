@@ -1,0 +1,61 @@
+{
+  "model": {
+    "type": "select",
+    "property": "custom_model_data",
+    "fallback": {
+      "type": "model",
+      "model": "item/golden_hoe"
+    },
+    "cases": [
+      {
+        "when": "seraph_head",
+        "model": {
+          "type": "model",
+          "model": "item/item/seraph/seraph_head"
+        }
+      },
+      {
+        "when": "seraph_feather_l",
+        "model": {
+          "type": "model",
+          "model": "item/item/seraph/seraph_feather_l"
+        }
+      },
+      {
+        "when": "seraph_feather_r",
+        "model": {
+          "type": "model",
+          "model": "item/item/seraph/seraph_feather_r"
+        }
+      },
+      {
+        "when": "seraph_feather_l_another",
+        "model": {
+          "type": "model",
+          "model": "item/item/seraph/seraph_feather_l_another"
+        }
+      },
+      {
+        "when": "seraph_feather_r_another",
+        "model": {
+          "type": "model",
+          "model": "item/item/seraph/seraph_feather_r_another"
+        }
+      },
+      {
+        "when": "seraph_spike",
+        "model": {
+          "type": "model",
+          "model": "item/item/seraph/seraph_spike"
+        }
+      },
+      {
+        "when": "seraph_feather2",
+        "model": {
+          "type": "model",
+          "model": "item/item/seraph/seraph_feather2"
+        }
+      }
+    ]
+  }
+}
