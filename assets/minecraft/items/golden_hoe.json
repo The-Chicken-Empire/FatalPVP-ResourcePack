@@ -55,6 +55,13 @@
           "type": "model",
           "model": "item/item/seraph/seraph_feather2"
         }
+      },
+      {
+        "when": "seraph_glaive2",
+        "model": {
+          "type": "model",
+          "model": "item/item/seraph/seraph_glaive2"
+        }
       }
     ]
   }
