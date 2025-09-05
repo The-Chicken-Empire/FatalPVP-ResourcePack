@@ -1,0 +1,33 @@
+{
+  "model": {
+    "type": "select",
+    "property": "custom_model_data",
+    "fallback": {
+      "type": "model",
+      "model": "item/carrot_on_a_stick"
+    },
+    "cases": [
+      {
+        "when": "seraph_sr",
+        "model": {
+          "type": "model",
+          "model": "item/item/seraph/seraph_sr"
+        }
+      },
+      {
+        "when": "seraph_glaive",
+        "model": {
+          "type": "model",
+          "model": "item/item/seraph/seraph_glaive"
+        }
+      },
+      {
+        "when": "magic9",
+        "model": {
+          "type": "model",
+          "model": "item/item/magic9"
+        }
+      }
+    ]
+  }
+}

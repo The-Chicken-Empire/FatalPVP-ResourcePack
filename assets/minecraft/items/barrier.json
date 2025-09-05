@@ -1,0 +1,69 @@
+{
+  "model": {
+    "type": "select",
+    "property": "custom_model_data",
+    "fallback": {
+      "type": "model",
+      "model": "item/barrier"
+    },
+    "cases": [
+      {
+        "when": "magic10",
+        "model": {
+          "type": "model",
+          "model": "item/itemdisplay/magic10"
+        }
+      },
+      {
+        "when": "magic15id",
+        "model": {
+          "type": "model",
+          "model": "item/itemdisplay/magic15id"
+        }
+      },
+      {
+        "when": "cp3",
+        "model": {
+          "type": "model",
+          "model": "item/itemdisplay/cp3"
+        }
+      }
+      ,
+      {
+        "when": "offhand10",
+        "model": {
+          "type": "model",
+          "model": "item/item/offhand10"
+        }
+      },
+      {
+        "when": "offhand7id",
+        "model": {
+          "type": "model",
+          "model": "item/itemdisplay/offhand7id"
+        }
+      },
+      {
+        "when": "offhand7-2id",
+        "model": {
+          "type": "model",
+          "model": "item/itemdisplay/offhand7-2id"
+        }
+      },
+      {
+        "when": "magic19id",
+        "model": {
+          "type": "model",
+          "model": "item/itemdisplay/magic19id"
+        }
+      },
+      {
+        "when": "test",
+        "model": {
+          "type": "model",
+          "model": "item/diamond_sword"
+        }
+      }
+    ]
+  }
+}
