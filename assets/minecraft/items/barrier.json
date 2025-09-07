@@ -58,6 +58,13 @@
         }
       },
       {
+        "when": "helmet10",
+        "model": {
+          "type": "model",
+          "model": "item/item/helmet10"
+        }
+      },
+      {
         "when": "test",
         "model": {
           "type": "model",
