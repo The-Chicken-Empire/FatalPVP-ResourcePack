@@ -65,6 +65,20 @@
         }
       },
       {
+        "when": "magic1id",
+        "model": {
+          "type": "model",
+          "model": "item/itemdisplay/magic1id"
+        }
+      },
+      {
+        "when": "magic1id2",
+        "model": {
+          "type": "model",
+          "model": "item/itemdisplay/magic1id2"
+        }
+      },
+      {
         "when": "test",
         "model": {
           "type": "model",
