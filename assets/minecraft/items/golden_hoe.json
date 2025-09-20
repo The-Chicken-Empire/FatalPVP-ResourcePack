@@ -62,6 +62,13 @@
           "type": "model",
           "model": "item/item/seraph/seraph_glaive2"
         }
+      },
+      {
+        "when": "helmet15",
+        "model": {
+          "type": "model",
+          "model": "item/item/helmet15"
+        }
       }
     ]
   }
