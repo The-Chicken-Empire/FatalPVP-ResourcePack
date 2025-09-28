@@ -79,6 +79,13 @@
         }
       },
       {
+        "when": "magic27totem",
+        "model": {
+          "type": "model",
+          "model": "item/itemdisplay/magic27totem"
+        }
+      },
+      {
         "when": "test",
         "model": {
           "type": "model",
