@@ -69,6 +69,27 @@
           "type": "model",
           "model": "item/item/helmet15"
         }
+      },
+      {
+        "when": "magic36_meteor",
+        "model": {
+          "type": "model",
+          "model": "item/itemdisplay/magic36_meteor"
+        }
+      },
+      {
+        "when": "magic36_jin",
+        "model": {
+          "type": "model",
+          "model": "item/itemdisplay/magic36_jin"
+        }
+      },
+      {
+        "when": "magic37_1",
+        "model": {
+          "type": "model",
+          "model": "item/itemdisplay/magic37_1"
+        }
       }
     ]
   }
