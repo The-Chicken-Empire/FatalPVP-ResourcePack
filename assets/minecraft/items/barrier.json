@@ -86,6 +86,20 @@
         }
       },
       {
+        "when": "magic23fp",
+        "model": {
+          "type": "model",
+          "model": "item/itemdisplay/magic23piller"
+        }
+      },
+      {
+        "when": "magic23sf",
+        "model": {
+          "type": "model",
+          "model": "item/itemdisplay/magic23sf"
+        }
+      },
+      {
         "when": "test",
         "model": {
           "type": "model",
