@@ -107,6 +107,13 @@
         }
       },
       {
+        "when": "magic43id",
+        "model": {
+          "type": "model",
+          "model": "item/itemdisplay/magic43id"
+        }
+      },
+      {
         "when": "test",
         "model": {
           "type": "model",
