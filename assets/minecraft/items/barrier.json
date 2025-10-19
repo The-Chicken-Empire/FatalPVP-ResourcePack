@@ -58,6 +58,13 @@
         }
       },
       {
+        "when": "bloodybandage",
+        "model": {
+          "type": "model",
+          "model": "item/item/bloodybandage"
+        }
+      },
+      {
         "when": "helmet10",
         "model": {
           "type": "model",

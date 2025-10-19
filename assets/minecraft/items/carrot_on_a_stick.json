@@ -28,11 +28,18 @@
           "model": "item/item/magic9"
         }
       },
+      
       {
         "when": "magic40",
         "model": {
           "type": "model",
           "model": "item/item/magic40"
+        }},
+        {
+        "when": "weapon5",
+        "model": {
+          "type": "model",
+          "model": "item/item/weapon5"
         }
       }
     ]
