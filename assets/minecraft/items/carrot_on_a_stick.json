@@ -27,6 +27,13 @@
           "type": "model",
           "model": "item/item/magic9"
         }
+      },
+      {
+        "when": "weapon5",
+        "model": {
+          "type": "model",
+          "model": "item/item/weapon5"
+        }
       }
     ]
   }

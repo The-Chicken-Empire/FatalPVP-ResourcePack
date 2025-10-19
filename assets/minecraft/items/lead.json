@@ -1,0 +1,19 @@
+{
+  "model": {
+    "type": "select",
+    "property": "custom_model_data",
+    "fallback": {
+      "type": "model",
+      "model": "item/lead"
+    },
+    "cases": [
+      {
+        "when": "magic46",
+        "model": {
+          "type": "model",
+          "model": "item/item/magic46"
+        }
+      }
+    ]
+  }
+}
