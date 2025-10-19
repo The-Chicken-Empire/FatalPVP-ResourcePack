@@ -114,6 +114,20 @@
         }
       },
       {
+        "when": "magic41cord",
+        "model": {
+          "type": "model",
+          "model": "item/itemdisplay/magic41cord"
+        }
+      },
+      {
+        "when": "magic41cord2",
+        "model": {
+          "type": "model",
+          "model": "item/itemdisplay/magic41cord2"
+        }
+      },
+      {
         "when": "test",
         "model": {
           "type": "model",

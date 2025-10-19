@@ -26,7 +26,12 @@
 {"type":"bitmap","chars":["\u0030"],"file":"minecraft:effect/solitary_dominance.png","ascent":0,"height": 18 },
 {"type":"bitmap","chars":["\u0031"],"file":"minecraft:effect/dd.png","ascent":0,"height": 18 },
 {"type":"bitmap","chars":["\u0032"],"file":"minecraft:effect/press_harder.png","ascent":0,"height": 18 },
-{"type":"bitmap","chars":["\u0033"],"file":"minecraft:effect/hunger.png","ascent":0,"height": 18 }
+{"type":"bitmap","chars":["\u0033"],"file":"minecraft:effect/hunger.png","ascent":0,"height": 18 },
+
+{"type":"bitmap","chars":["\u0046"],"file":"minecraft:effect/heat.png","ascent":0,"height": 18 },
+{"type":"bitmap","chars":["\u0047"],"file":"minecraft:effect/heatexp.png","ascent":0,"height": 18 }
+
+
 
 
 
