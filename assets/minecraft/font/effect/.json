@@ -29,6 +29,8 @@
 {"type":"bitmap","chars":["\u0031"],"file":"minecraft:effect/dd.png","ascent":0,"height": 18 },
 {"type":"bitmap","chars":["\u0032"],"file":"minecraft:effect/press_harder.png","ascent":0,"height": 18 },
 {"type":"bitmap","chars":["\u0033"],"file":"minecraft:effect/hunger.png","ascent":0,"height": 18 },
+
+
 {"type":"bitmap","chars":["\u0035"],"file":"minecraft:effect/heal_reduction.png","ascent":0,"height": 18 },
 {"type":"bitmap","chars":["\u0036"],"file":"minecraft:effect/health_cut.png","ascent":0,"height": 18 },
 {"type":"bitmap","chars":["\u0037"],"file":"minecraft:effect/mpheal_reduction.png","ascent":0,"height": 18 },
@@ -36,7 +38,10 @@
 {"type":"bitmap","chars":["\u0040"],"file":"minecraft:effect/burn.png","ascent":0,"height": 18 },
 
 {"type":"bitmap","chars":["\u0044"],"file":"minecraft:effect/ruin.png","ascent":0,"height": 18 },
-{"type":"bitmap","chars":["\u0045"],"file":"minecraft:effect/reckless_pose.png","ascent":0,"height": 18 }
+{"type":"bitmap","chars":["\u0045"],"file":"minecraft:effect/reckless_pose.png","ascent":0,"height": 18 },
+{"type":"bitmap","chars":["\u0046"],"file":"minecraft:effect/heat.png","ascent":0,"height": 18 },
+{"type":"bitmap","chars":["\u0047"],"file":"minecraft:effect/heatexp.png","ascent":0,"height": 18 }
+
 
 
 

@@ -107,7 +107,35 @@
         }
       },
       {
-        "when": "test",
+        "when": "magic40id",
+        "model": {
+          "type": "model",
+          "model": "item/itemdisplay/magic40id"
+        }
+      },
+      {
+        "when": "magic43id",
+        "model": {
+          "type": "model",
+          "model": "item/itemdisplay/magic43id"
+        }
+      },
+      {
+        "when": "magic41cord",
+        "model": {
+          "type": "model",
+          "model": "item/itemdisplay/magic41cord"
+        }
+      },
+      {
+        "when": "magic41cord2",
+        "model": {
+          "type": "model",
+          "model": "item/itemdisplay/magic41cord2"
+        }
+      },
+      {
+        "when": "testa",
         "model": {
           "type": "model",
           "model": "item/diamond_sword"
