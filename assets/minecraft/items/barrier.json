@@ -128,7 +128,7 @@
         }
       },
       {
-        "when": "test",
+        "when": "testa",
         "model": {
           "type": "model",
           "model": "item/diamond_sword"
