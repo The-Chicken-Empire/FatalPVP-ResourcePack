@@ -135,6 +135,13 @@
         }
       },
       {
+        "when": "magic48id",
+        "model": {
+          "type": "model",
+          "model": "item/itemdisplay/magic48id"
+        }
+      },
+      {
         "when": "testa",
         "model": {
           "type": "model",
