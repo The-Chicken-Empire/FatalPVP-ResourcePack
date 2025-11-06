@@ -58,6 +58,13 @@
         }
       },
       {
+        "when": "bloodybandage",
+        "model": {
+          "type": "model",
+          "model": "item/item/bloodybandage"
+        }
+      },
+      {
         "when": "helmet10",
         "model": {
           "type": "model",
@@ -86,7 +93,56 @@
         }
       },
       {
-        "when": "test",
+        "when": "magic23fp",
+        "model": {
+          "type": "model",
+          "model": "item/itemdisplay/magic23piller"
+        }
+      },
+      {
+        "when": "magic23sf",
+        "model": {
+          "type": "model",
+          "model": "item/itemdisplay/magic23sf"
+        }
+      },
+      {
+        "when": "magic40id",
+        "model": {
+          "type": "model",
+          "model": "item/itemdisplay/magic40id"
+        }
+      },
+      {
+        "when": "magic43id",
+        "model": {
+          "type": "model",
+          "model": "item/itemdisplay/magic43id"
+        }
+      },
+      {
+        "when": "magic41cord",
+        "model": {
+          "type": "model",
+          "model": "item/itemdisplay/magic41cord"
+        }
+      },
+      {
+        "when": "magic41cord2",
+        "model": {
+          "type": "model",
+          "model": "item/itemdisplay/magic41cord2"
+        }
+      },
+      {
+        "when": "magic48id",
+        "model": {
+          "type": "model",
+          "model": "item/itemdisplay/magic48id"
+        }
+      },
+      {
+        "when": "testa",
         "model": {
           "type": "model",
           "model": "item/diamond_sword"
