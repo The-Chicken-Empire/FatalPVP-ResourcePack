@@ -85,6 +85,7 @@
           "model": "item/itemdisplay/magic1id2"
         }
       },
+      
       {
         "when": "magic27totem",
         "model": {
