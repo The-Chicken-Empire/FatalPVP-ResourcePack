@@ -40,7 +40,7 @@
 
 {"type":"bitmap","chars":["\u0048"],"file":"minecraft:effect/gaze.png","ascent":0,"height": 18 },
 
-{"type":"bitmap","chars":["\u0056"],"file":"minecraft:effect/lamp.png","ascent":0,"height": 18 }
+{"type":"bitmap","chars":["\u0052"],"file":"minecraft:effect/lamp.png","ascent":0,"height": 18 }
 
 
 
