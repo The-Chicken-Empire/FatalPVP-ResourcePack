@@ -1,0 +1,26 @@
+{
+  "model": {
+    "type": "select",
+    "property": "custom_model_data",
+    "fallback": {
+      "type": "model",
+      "model": "item/blue_stained_glass_pane"
+    },
+    "cases": [
+      {
+        "when": "magic50id",
+        "model": {
+          "type": "model",
+          "model": "item/itemdisplay/magic50id"
+        }
+      },
+      {
+        "when": "magic19ray",
+        "model": {
+          "type": "model",
+          "model": "item/itemdisplay/magic19ray"
+        }
+      }
+    ]
+  }
+}
