@@ -4,16 +4,10 @@
     "property": "custom_model_data",
     "fallback": {
       "type": "model",
-      "model": "item/flower_pot"
+      "model": "item/dragon_breath"
     },
     "cases": [
       {
-        "when": "food2",
-        "model": {
-          "type": "model",
-          "model": "item/item/food2"
-        }
-      },{
         "when": "food4",
         "model": {
           "type": "model",
