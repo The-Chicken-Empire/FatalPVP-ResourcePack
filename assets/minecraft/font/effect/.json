@@ -39,11 +39,16 @@
 
 {"type":"bitmap","chars":["\u0044"],"file":"minecraft:effect/ruin.png","ascent":0,"height": 18 },
 {"type":"bitmap","chars":["\u0045"],"file":"minecraft:effect/reckless_pose.png","ascent":0,"height": 18 },
+
 {"type":"bitmap","chars":["\u0046"],"file":"minecraft:effect/heat.png","ascent":0,"height": 18 },
 {"type":"bitmap","chars":["\u0047"],"file":"minecraft:effect/heatexp.png","ascent":0,"height": 18 },
+{"type":"bitmap","chars":["\u0048"],"file":"minecraft:effect/gaze.png","ascent":0,"height": 18 },
+               
+{"type":"bitmap","chars":["\u0052"],"file":"minecraft:effect/lamp.png","ascent":0,"height": 18 },
 {"type":"bitmap","chars":["\u0053"],"file":"minecraft:effect/para.png","ascent":0,"height": 18 },
 {"type":"bitmap","chars":["\u0054"],"file":"minecraft:effect/paraexp.png","ascent":0,"height": 18 },
 {"type":"bitmap","chars":["\u0055"],"file":"minecraft:effect/free.png","ascent":0,"height": 18 }
+
 
 
 
