@@ -148,6 +148,42 @@
           "type": "model",
           "model": "item/diamond_sword"
         }
+      },
+      {
+        "when": "magic61id1",
+        "model": {
+          "type": "model",
+          "model": "item/itemdisplay/magic61id1"
+        }
+      },
+      {
+        "when": "magic61id2",
+        "model": {
+          "type": "model",
+          "model": "item/itemdisplay/magic61id2"
+        }
+      }
+      ,
+      {
+        "when": "magic62clock",
+        "model": {
+          "type": "model",
+          "model": "item/itemdisplay/magic62clock"
+        }
+      },
+      {
+        "when": "magic62sting",
+        "model": {
+          "type": "model",
+          "model": "item/itemdisplay/magic62sting"
+        }
+      },
+      {
+        "when": "magic62sting2",
+        "model": {
+          "type": "model",
+          "model": "item/itemdisplay/magic62sting2"
+        }
       }
     ]
   }
