@@ -13,6 +13,13 @@
           "type": "model",
           "model": "item/itemdisplay/magic50id"
         }
+      },
+      {
+        "when": "magic19ray",
+        "model": {
+          "type": "model",
+          "model": "item/itemdisplay/magic19ray"
+        }
       }
     ]
   }
